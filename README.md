@@ -13,6 +13,28 @@
 
 **要了解更多关于这个系列丛书背后的动机和角度，请参阅[前言](preface.md)。**
 
+## 目录
+
+* [“类型与文法”](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)
+
+# 你不懂JS：类型与文法
+
+<img src="types\%20&\%20grammar/cover.jpg" width="300">
+
+[目录](types\%20&\%20grammar/toc.md)
+
+* [序](types\%20&\%20grammar/foreword.md)（[David Walsh](http://davidwalsh.name)）
+* [前言](preface.md)
+* [第一章：类型](types\%20&\%20grammar/ch1.md)
+* [第二章：值](types\%20&\%20grammar/ch2.md)
+* [第三章：原生类型](types\%20&\%20grammar/ch3.md)
+* [第四章：强制转换](types\%20&\%20grammar/ch4.md)
+* [第五章：文法](types\%20&\%20grammar/ch5.md)
+* [附录A：混合环境下的JavaScript](types\%20&\%20grammar/apA.md)
+* [附录B: 鸣谢](types\%20&\%20grammar/apB.md)
+
+* [“异步与性能”](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
+
 ## 书目
 
 * 在线阅读（免费！）：[“入门与进阶”](up\%20&\%20going/README.md#you-dont-know-js-up--going)，已出版：[立即购买](http://shop.oreilly.com/product/0636920039303.do)印刷版，但是ebook格式是免费的！
