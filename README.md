@@ -17,7 +17,7 @@
 
 * [“类型与文法”](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)
 
-# 你不懂JS：类型与文法
+## 你不懂JS：类型与文法
 
 <img src="types\%20&\%20grammar/cover.jpg" width="300">
 
@@ -34,6 +34,23 @@
 * [附录B: 鸣谢](types\%20&\%20grammar/apB.md)
 
 * [“异步与性能”](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
+
+# 你不懂JS: 异步与性能
+
+
+[目录](async\%20&\%20performance/toc.md)
+
+* [序](async\%20&\%20performance/foreword.md)（[Jake Archibald](http://jakearchibald.com)）
+* [前言](preface.md)
+* [第一章: 异步:现在与稍后](async\%20&\%20performance/ch1.md)
+* [第二章: 回调](async\%20&\%20performance/ch2.md)
+* [第三章: Promise](async\%20&\%20performance/ch3.md)
+* [第四章: Generator](async\%20&\%20performance/ch4.md)
+* [第五章: 程序性能](async\%20&\%20performance/ch5.md)
+* [第六章: 基准分析与调优](async\%20&\%20performance/ch6.md)
+* [附录A：库：asynquence](async\%20&\%20performance/apA.md)
+* [附录B：高级异步模式](async\%20&\%20performance/apB.md)
+* [附录C：鸣谢](async\%20&\%20performance/apC.md)
 
 ## 书目
 
