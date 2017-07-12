@@ -90,6 +90,10 @@
 * [第八章：ES6之后](es6\%20&\%20beyond/ch8.md)
 * [附录A：鸣谢](es6\%20&\%20beyond/apA.md)
 
+## GitBook
+
+[via](https://lazyneo.gitbooks.io/-js/content/)
+
 ## 书目
 
 * 在线阅读（免费！）：[“入门与进阶”](up\%20&\%20going/README.md#you-dont-know-js-up--going)，已出版：[立即购买](http://shop.oreilly.com/product/0636920039303.do)印刷版，但是ebook格式是免费的！
