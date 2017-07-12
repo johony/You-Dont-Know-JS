@@ -1,25 +1,18 @@
-# 你不懂JS（系列丛书）
 
-这是一套深入探讨 JavaScript 语言核心机制的系列丛书。本系列的第一版已经完成。
 
-<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920026327.do"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033738.do"><img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033745.do"><img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033752.do"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
-<a href="http://shop.oreilly.com/product/0636920033769.do"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
+## 你不懂JS：入门与进阶
 
-欢迎通过提交 PR 改进代码段，讲解等，来为此内容的质量做出贡献。虽然也欢迎拼写错误的修改，但是它们很可能将在一般的编辑过程中被找出来，因此对本代码库不一定很重要。
+[目录](up\%20&\%20going/toc.md)
 
-**要了解更多关于这个系列丛书背后的动机和角度，请参阅[前言](preface.md)。**
-
-## 目录
-
-* [“类型与文法”](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)
+* [序](up\%20&\%20going/foreword.md)（[Jenn Lukas](http://jennlukas.com)）
+* [前言](preface.md)
+* [第一章：进入编程](up\%20&\%20going/ch1.md)
+* [第二章：进入JavaScript](up\%20&\%20going/ch2.md)
+* [第三章：进入YDKJS](up\%20&\%20going/ch3.md)
+* [附录A：鸣谢](up\%20&\%20going/apA.md)
 
 ## 你不懂JS：类型与文法
 
-<img src="types\%20&\%20grammar/cover.jpg" width="300">
 
 [目录](types\%20&\%20grammar/toc.md)
 
@@ -35,7 +28,7 @@
 
 * [“异步与性能”](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
 
-# 你不懂JS: 异步与性能
+## 你不懂JS: 异步与性能
 
 
 [目录](async\%20&\%20performance/toc.md)
@@ -60,6 +53,21 @@
 * 在线阅读（免费！）：[“类型与文法”](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033745.do)
 * 在线阅读（免费！）：[“异步与性能”](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033752.do)
 * 在线阅读（免费！）：[“ES6与未来”](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)，已出版：[立即购买](http://shop.oreilly.com/product/0636920033769.do)
+
+## 你不懂JS（系列丛书）
+
+这是一套深入探讨 JavaScript 语言核心机制的系列丛书。本系列的第一版已经完成。
+
+<a href="http://shop.oreilly.com/product/0636920039303.do"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920026327.do"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920033738.do"><img src="this %26 object prototypes/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920033745.do"><img src="types %26 grammar/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920033752.do"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
+<a href="http://shop.oreilly.com/product/0636920033769.do"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
+
+欢迎通过提交 PR 改进代码段，讲解等，来为此内容的质量做出贡献。虽然也欢迎拼写错误的修改，但是它们很可能将在一般的编辑过程中被找出来，因此对本代码库不一定很重要。
+
+**要了解更多关于这个系列丛书背后的动机和角度，请参阅[前言](preface.md)。**
 
 ## 出版
 
