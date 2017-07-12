@@ -26,6 +26,21 @@
 * [附录C：词法this](scope\%20&\%20closures/apC.md)
 * [附录D：鸣谢](scope\%20&\%20closures/apD.md)
 
+# 你不懂JS: *this* 与对象原型
+
+[目录](this\%20&\%20object\%20prototypes/toc.md)
+
+* [序](this\%20&\%20object\%20prototypes/foreword.md)（[Nick Berardi](https://github.com/nberardi)）
+* [第一章: *this*还是That?](this\%20&\%20object\%20prototypes/ch1.md)
+* [第二章: *this*豁然开朗!](this\%20&\%20object\%20prototypes/ch2.md)
+* [第三章: 对象](this\%20&\%20object\%20prototypes/ch3.md)
+* [第四章: 混合（淆）“类”的对象](this\%20&\%20object\%20prototypes/ch4.md)
+* [第五章: 原型](this\%20&\%20object\%20prototypes/ch5.md)
+* [第六章: 行为委托](this\%20&\%20object\%20prototypes/ch6.md)
+* [附录A: ES6 *class*](this\%20&\%20object\%20prototypes/apA.md)
+* [附录B: 鸣谢](this\%20&\%20object\%20prototypes/apB.md)
+
+
 ## 你不懂JS：类型与文法
 
 
